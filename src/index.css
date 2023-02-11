@@ -2,12 +2,12 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-size: 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: #fff;
 }
 
 body {
-  background-color: #0e1129;
+  background-color: #010409;
   padding: 2rem;
 }
 
